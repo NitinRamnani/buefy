@@ -1,6 +1,6 @@
 import { shallowMount } from '@vue/test-utils'
 import BTooltip from '@components/tooltip/Tooltip'
-
+// wrapper
 let wrapper
 
 describe('BTooltip', () => {
